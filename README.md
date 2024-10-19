@@ -5,7 +5,7 @@ Notes:
 3. JSON RPC is the communication protocol of blockchain.
 
 
-Solana CLI: 
+Solana CLI commands to mint tokens using solana program library's token toolkit: 
 
 1. Installation on Mac/Linux: `sh -c "$(curl -sSfL https://release.solana.com/v1.18.18/install)"`
 
